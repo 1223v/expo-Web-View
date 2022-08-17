@@ -2,7 +2,7 @@
 Web-View
 
 Please downgrade node version 12.x
-==============================================================
+
 # node가 어디에 설치되어있는지 확인
 whereis node
 
@@ -23,7 +23,7 @@ sudo apt remove nodejs -y
 # 노드 설치
 curl -fsSL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt install -y nodejs
-================================================================
+
 
 expo install react-native-webview
 
