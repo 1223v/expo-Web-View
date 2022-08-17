@@ -22,6 +22,8 @@ sudo apt remove nodejs -y
 
 # 노드 설치
 curl -fsSL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+
+
 sudo apt install -y nodejs
 
 
