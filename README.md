@@ -33,6 +33,8 @@ if return to error
 npm install @react-native-community/viewpager --save
 
 Please install expo-cli
+
+
 npm install -g expo-cli
 
 
